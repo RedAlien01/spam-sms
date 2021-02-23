@@ -1,5 +1,5 @@
 # SPAM SMS Unlimited
-![image](https://github.com/Xractz/SMS/blob/master/spam.png)
+![image](https://github.com/penucuriCode/spam-sms/blob/main/2.PNG)
 SPAM SMS menggunakan api web JD ID dengan menggunakan bahasa pemrograman python
 jika tidak berhasil silahkan Kontak Person Github.
 
