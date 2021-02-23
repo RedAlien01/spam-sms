@@ -38,7 +38,7 @@ if __name__ == '__main__':
 		print("""\033[1m
    _____ __  ________
   / ___//  |/  / ___/ | 
-  \__ \/ /|_/ /\__ \  | SMS Spammer using api from -+ IndiHome +-
+  \__ \/ /|_/ /\__ \  | SMS Spammer using api from -+ JD.ID +-
  ___/ / /  / /___/ /  | Writted by Meow404 - \033[31;2mIndo\033[39;2mxploit\033[0;1m
 /____/_/  /_//____/   | ex: 08xxxxx77\033[0m
 	""")
